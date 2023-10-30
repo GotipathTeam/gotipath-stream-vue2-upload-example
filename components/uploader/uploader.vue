@@ -20,10 +20,10 @@ uppy.setOptions({
   proudlyDisplayPoweredByUppy: false,
 });
 
-const LibraryId = "35d44b32-fbc9-448a-ada4-96557f7cc131";
-const ClientId = "92f9d000-5051-4339-9b3a-91f1c2a4c076";
+const LibraryId = "35d44b32-fbc9-448a-ada4-96557f7cc13";
+const ClientId = "92f9d000-5051-4339-9b3a-91f1c2a4c07";
 const ApiKey =
-  "8b6PNtL8Br0hvpa3R/UK6Nxxtkm7Clwa5WQGvPDdwWDpP99xTY2wkOLRQ9P9NQ0B8KkvgQ";
+  "8b6PNtL8Br0hvpa3R/UK6Nxxtkm7Clwa5WQGvPDdw99xTY2wkOLRQ9P9NQ0B8KkvgQ";
 
 // AUTH HEADERS
 const headers = {
