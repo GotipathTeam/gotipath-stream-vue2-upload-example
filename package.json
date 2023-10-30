@@ -1,0 +1,25 @@
+{
+  "name": "vue2-gotipath-uploader",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@uppy/aws-s3": "^3.3.1",
+    "@uppy/core": "^3.5.1",
+    "@uppy/dashboard": "^3.5.4",
+    "@uppy/drag-drop": "^3.0.3",
+    "@uppy/provider-views": "^3.5.0",
+    "@uppy/vue": "^1.0.2",
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "p-queue": "^7.4.1",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  }
+}
